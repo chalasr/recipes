@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "Doctrine\\Bundle\\DoctrineBundle\\DoctrineBundle": ["all"]
+        "aaDoctrine\\Bundle\\DoctrineBundle\\DoctrineBundle": ["all"]
     },
     "copy-from-recipe": {
         "etc/": "%ETC_DIR%/",
